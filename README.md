@@ -1,9 +1,7 @@
 # GameJam2SGC
 Check releases for the binary. Only compiled for windows.
 
-If source desired for business reasons please email me at technicalandyr@gmail.com
-
-This game is meant to be a mobile game. It was made in unity, but is currently just compiled for windows. I am continuing to work on this and plan on releasing it sometime during the Summer after many changes.
+This game is meant to be a mobile game. It was made in unity, but is currently just compiled for windows.
 
 The goal of the game is to reach the top of a 10x10 grid as many times as possible. Each time you reach the top, you choose from 3 restrictions what you can't do next time through the grid. These restrictions accumulate and so each round is harder than the last. How many restrictions can you make it through the grid with at once?
 
